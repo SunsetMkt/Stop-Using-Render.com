@@ -51,9 +51,7 @@ Though my account is blocked by Render, I was astonished to find that Render did
 
 On 2023/6/22, the same Render staff replied to my post titled "Account Blocked but App’s still running and undeleted". I quote, "We will be resolving this later today." 
 
-On 2023/6/23, the application is suspended, but not deleted. Not sure if the environment variables are still there.
-
-I'm still waiting.
+On 2023/6/23, the application is suspended, but not deleted. Not sure if the environment variables are still there. Staff's reply is "The custom domain may still be active pointing at our service  but it is our proxy that is responding since the domain is still pointing at us".
 
 ## Lacks notification and feedback
 In most modern PaaS, if your project is potentially harmful, the platform will pop up a warning to tell you, "You are not allowed to deploy this", like what we could see on Railway or Heroku.
